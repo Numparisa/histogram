@@ -36,9 +36,9 @@ Type of digital images
 Histogram
 
   Histogram is color-scale graph.
-    x axis = grey scale 0-255 [0 = black, 255 = white]
+    x axis = color scale 0-255 [0 = black, 255 = white]
     y axis = amount of pixels of each color
-  *each image can has many histogram. Each histogram will present only one color. 
+  *not sure each image may has many histogram. Each histogram will present only one color. 
   i.e. RGB will has red-scale graph, green-scale graph, and blue-scale graph.
  
   Some of Vocabulary about Histogram
@@ -51,4 +51,4 @@ Histogram
 	
   Histogram Equalization
 		H=[ ( Cdf(v) - Cdfmin ) / ((M * N) - Cdfmin) ] * 255
-		M*N คือ pixel size [ Cdfmax ]
+		M*N is pixel size [ Cdfmax ]
