@@ -51,4 +51,4 @@ Histogram
 	
   Histogram Equalization
 		H=[ ( Cdf(v) - Cdfmin ) / ((M * N) - Cdfmin) ] * 255
-		M*N คือ ขนาดpixel [ Cdfmax ]
+		M*N คือ pixel size [ Cdfmax ]
