@@ -23,8 +23,7 @@ Type of digital images
   5. JPEG
      JPEG is a compressed image, normal 1 pixel = 1 bit >> new 1 pixel = 0.25 bit.
      Step of compressing
-      RGB > color transformation[color(y) , brightness(Cb,Ct)] > discrete cosine transformation
-      > lossless transformation[using mathematics equations for lossless]
+      RGB > color transformation[color(y) , brightness(Cb,Ct)] > discrete cosine transformation> lossless transformation[using mathematics equations for lossless]
 
   6. BMP
 	   BMP is a pixel image. This image should not be expanded or compressed because it may lose some information.
