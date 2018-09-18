@@ -1,6 +1,9 @@
 # histogram
 Image Processing class @MU | 12 SEP 2018 | type of digital image | basics of histograms
 
+// Try_histogram is coding for compare histogram of each file type
+// Try_histeq_by_me is coding for adjust contrast of gray-scale image
+
 Type of digital images
   1. Raster Vs Vector
      Raster images = images include of aligned pixels. Then the image will blur when expanded.
